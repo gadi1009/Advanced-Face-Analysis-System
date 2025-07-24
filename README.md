@@ -2,9 +2,11 @@
 
 An interactive web application for advanced facial recognition and analysis, developed as a final project for the "Advanced Topics in Data Mining" course. This system identifies individuals from a custom, high-quality database built from the LFW dataset and provides a rich, real-time analysis of the input image.
 
+<img width="942" height="549" alt="Screenshot from 2025-07-24 22-38-13" src="https://github.com/user-attachments/assets/3e56f4de-8648-481a-ae93-c9b06bfab8d6" />
+
+
 <img width="1001" height="274" alt="Screenshot from 2025-07-24 22-39-38" src="https://github.com/user-attachments/assets/aae93c6f-8b2b-4117-add2-5c0b6888f046" />
 
-<img width="942" height="549" alt="Screenshot from 2025-07-24 22-38-13" src="https://github.com/user-attachments/assets/3e56f4de-8648-481a-ae93-c9b06bfab8d6" />
 
 ## **Core Features**
 
